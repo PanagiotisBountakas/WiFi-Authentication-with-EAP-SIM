@@ -1,5 +1,4 @@
 # WiFi-Authentication-with-EAP-SIM
-# WiFi-Authentication-with-EAP-SIM
 Introduction
 
 EAP Subscriber Identity Module (EAP-SIM) use the subscriber identity module (sim) from Global System for Mobile Communications (GSM) for authentication and session key distribution. Also EAP-SIM can be used in a WPA enterprise network (WPA-802.1X). Our goal is to obtain access to a secure WiFi through our smartphone without a password by using EAP-SIM authentication method.  Our implementation consists of a freeradius server, an access point (netfaster 3) and an android 5.1 smartphone. 
